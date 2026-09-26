@@ -8,7 +8,7 @@
 
 C# plugins, .NET tooling, and AI automation for Cheat Engine.
 
-[Build a plugin](https://github.com/CheatEngineNet/CheatEngine.SDK#quick-start) &nbsp; · &nbsp; [Connect an AI client](https://github.com/CheatEngineNet/CheatEngine.Mcp#quick-start)
+[Build a plugin](https://github.com/CheatEngineNet/CheatEngine.SDK#quick-start) &nbsp; · &nbsp; [Use the fluent API](https://github.com/CheatEngineNet/CheatEngine.Client#quick-start) &nbsp; · &nbsp; [Connect an AI client](https://github.com/CheatEngineNet/CheatEngine.Mcp#quick-start)
 
 </div>
 
@@ -21,6 +21,14 @@ C# plugins, .NET tooling, and AI automation for Cheat Engine.
 Build Cheat Engine plugins with generated entry points, typed Lua bindings, and compiler diagnostics that catch mistakes before you launch.
 
 [Get started →](https://github.com/CheatEngineNet/CheatEngine.SDK#quick-start) &nbsp; · &nbsp; [Explore examples](https://github.com/CheatEngineNet/CheatEngine.SDK/tree/main/exemples)
+
+### [CheatEngine.Client](https://github.com/CheatEngineNet/CheatEngine.Client)
+
+**Typed workflows. Fluent C#.**
+
+Build on CheatEngine.SDK with typed memory access, AOB scanning, and Lua operations through a fluent C# API scoped to your plugin's lifetime.
+
+[Get started →](https://github.com/CheatEngineNet/CheatEngine.Client#quick-start) &nbsp; · &nbsp; [Plugin lifecycle](https://github.com/CheatEngineNet/CheatEngine.Client#the-plugin-lifecycle)
 
 ### [CheatEngine.Mcp](https://github.com/CheatEngineNet/CheatEngine.Mcp)
 
